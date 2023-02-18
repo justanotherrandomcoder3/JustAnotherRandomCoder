@@ -1,0 +1,6 @@
+print ("Sign In:")
+
+username = input ("username;")
+password = input ("password;")
+
+print ("This information will be kept private.")
